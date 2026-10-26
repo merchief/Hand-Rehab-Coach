@@ -1,0 +1,14 @@
+# Generated at runtime
+session_log.csv
+hand_landmarker.task
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
